@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="application_background">#FFFFFF</color>
+    <color name="widget_color">#0E2E43</color>
+    <color name="widget_light">#143D59</color>
+    <color name="light_border">#1400002C</color>
+    <color name="text_color">#80959d</color>
+</resources>
